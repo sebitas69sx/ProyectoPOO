@@ -16,7 +16,7 @@ public class ProyectoPOOO {
     public static void main(String[] args) {
        System.out.println("HOLA PAPUS");
        
-       System.out.println("HOLA Cracks");
+       System.out.println("HOLA PUTOS");
     }
     
 }
